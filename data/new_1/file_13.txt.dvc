@@ -1,0 +1,14 @@
+outs:
+- md5: 31fce45910ef2936027d33e51f0fe60a
+  size: 17
+  path: file_13.txt
+meta:
+  hkube:
+    id: cli-zwsc
+    name: file_13.txt
+    size: 17
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1618914187633
+    hash: 31fce45910ef2936027d33e51f0fe60a

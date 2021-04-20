@@ -1,0 +1,13 @@
+outs:
+- md5: ce04dc1c0835ac4251e2b47527b9d974
+  size: 17
+  path: file_97.txt
+meta:
+  hkube:
+    id: cli-bab3
+    name: file_97.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187815
+    hash: ce04dc1c0835ac4251e2b47527b9d974

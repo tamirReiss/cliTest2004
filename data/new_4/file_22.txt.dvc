@@ -1,0 +1,14 @@
+outs:
+- md5: 004a7e91c242303b0f799f9eb4bce932
+  size: 17
+  path: file_22.txt
+meta:
+  hkube:
+    id: cli-p6rh
+    name: file_22.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 20 to 40 
+    uploadedAt: 1618914187827
+    hash: 004a7e91c242303b0f799f9eb4bce932

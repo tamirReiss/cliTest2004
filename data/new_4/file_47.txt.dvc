@@ -1,0 +1,15 @@
+outs:
+- md5: a3fd782afc695b60ecd9750943c080ea
+  size: 17
+  path: file_47.txt
+meta:
+  hkube:
+    id: cli-mi2i
+    name: file_47.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 30 to 50 
+      from 40 to 60 
+    uploadedAt: 1618914187840
+    hash: a3fd782afc695b60ecd9750943c080ea

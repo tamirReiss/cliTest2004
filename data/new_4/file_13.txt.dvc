@@ -1,0 +1,14 @@
+outs:
+- md5: bbb413bf715840e27c2b73a9fca4b599
+  size: 17
+  path: file_13.txt
+meta:
+  hkube:
+    id: cli-6rqi
+    name: file_13.txt
+    size: 17
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1618914187820
+    hash: bbb413bf715840e27c2b73a9fca4b599

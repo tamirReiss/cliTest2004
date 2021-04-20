@@ -1,0 +1,13 @@
+outs:
+- md5: ff1f747b34d07439ffeec1e2de656d66
+  size: 17
+  path: file_88.txt
+meta:
+  hkube:
+    id: cli-kgmq
+    name: file_88.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187811
+    hash: ff1f747b34d07439ffeec1e2de656d66

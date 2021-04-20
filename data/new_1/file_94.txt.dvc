@@ -1,0 +1,13 @@
+outs:
+- md5: 4fc5758316358d3327e688200449bfcb
+  size: 17
+  path: file_94.txt
+meta:
+  hkube:
+    id: cli-zeul
+    name: file_94.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187694
+    hash: 4fc5758316358d3327e688200449bfcb

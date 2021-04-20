@@ -1,0 +1,13 @@
+outs:
+- md5: a36f4ceaa8cb127d05232c3355ed66c9
+  size: 17
+  path: file_74.txt
+meta:
+  hkube:
+    id: cli-x3ri
+    name: file_74.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187857
+    hash: a36f4ceaa8cb127d05232c3355ed66c9

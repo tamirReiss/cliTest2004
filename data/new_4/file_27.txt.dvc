@@ -1,0 +1,14 @@
+outs:
+- md5: b306636dcf995d54c5768412e84d1ff5
+  size: 17
+  path: file_27.txt
+meta:
+  hkube:
+    id: cli-v0wd
+    name: file_27.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 20 to 40 
+    uploadedAt: 1618914187830
+    hash: b306636dcf995d54c5768412e84d1ff5

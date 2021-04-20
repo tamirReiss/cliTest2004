@@ -1,0 +1,15 @@
+outs:
+- md5: 47945982ff4dc1503326dc30d274a807
+  size: 17
+  path: file_47.txt
+meta:
+  hkube:
+    id: cli-ownw
+    name: file_47.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 30 to 50 
+      from 40 to 60 
+    uploadedAt: 1618914187723
+    hash: 47945982ff4dc1503326dc30d274a807

@@ -1,0 +1,15 @@
+outs:
+- md5: 4dfd780a3e8ac286b7ed020fad27eeee
+  size: 17
+  path: file_49.txt
+meta:
+  hkube:
+    id: cli-8mul
+    name: file_49.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 30 to 50 
+      from 40 to 60 
+    uploadedAt: 1618914187842
+    hash: 4dfd780a3e8ac286b7ed020fad27eeee

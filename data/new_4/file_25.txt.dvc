@@ -1,0 +1,14 @@
+outs:
+- md5: b01b1f65af0b7652ac81f7acde3712f2
+  size: 17
+  path: file_25.txt
+meta:
+  hkube:
+    id: cli-zygn
+    name: file_25.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 20 to 40 
+    uploadedAt: 1618914187829
+    hash: b01b1f65af0b7652ac81f7acde3712f2

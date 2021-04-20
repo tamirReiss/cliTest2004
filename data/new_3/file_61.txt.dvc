@@ -1,0 +1,13 @@
+outs:
+- md5: 8fe6119a31a6c643e914648db600edf6
+  size: 17
+  path: file_61.txt
+meta:
+  hkube:
+    id: cli-ijhq
+    name: file_61.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187802
+    hash: 8fe6119a31a6c643e914648db600edf6

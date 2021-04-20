@@ -1,0 +1,14 @@
+outs:
+- md5: 88e530130734eb6d3a9454a0dc4bf2f7
+  size: 17
+  path: file_12.txt
+meta:
+  hkube:
+    id: cli-eb1k
+    name: file_12.txt
+    size: 17
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1618914187820
+    hash: 88e530130734eb6d3a9454a0dc4bf2f7

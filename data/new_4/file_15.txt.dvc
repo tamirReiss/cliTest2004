@@ -1,0 +1,14 @@
+outs:
+- md5: 0e4aafbb846c1dd2d14dbe3234469b0d
+  size: 17
+  path: file_15.txt
+meta:
+  hkube:
+    id: cli-1s51
+    name: file_15.txt
+    size: 17
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1618914187821
+    hash: 0e4aafbb846c1dd2d14dbe3234469b0d

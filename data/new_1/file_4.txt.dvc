@@ -1,0 +1,14 @@
+outs:
+- md5: 53af02611fdc88b2a2ff20f1255fdcd7
+  size: 16
+  path: file_4.txt
+meta:
+  hkube:
+    id: cli-e25p
+    name: file_4.txt
+    size: 16
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1618914187658
+    hash: 53af02611fdc88b2a2ff20f1255fdcd7

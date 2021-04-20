@@ -1,0 +1,15 @@
+outs:
+- md5: 584078dba4c403cb301ff0fc6d12131a
+  size: 17
+  path: file_34.txt
+meta:
+  hkube:
+    id: cli-1s6v
+    name: file_34.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 20 to 40 
+      from 30 to 50 
+    uploadedAt: 1618914187777
+    hash: 584078dba4c403cb301ff0fc6d12131a

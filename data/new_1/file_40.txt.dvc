@@ -1,0 +1,16 @@
+outs:
+- md5: f979e0830106301f2076cf46c3e7cab5
+  size: 17
+  path: file_40.txt
+meta:
+  hkube:
+    id: cli-irzf
+    name: file_40.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 20 to 40 
+      from 30 to 50 
+      from 40 to 60 
+    uploadedAt: 1618914187658
+    hash: f979e0830106301f2076cf46c3e7cab5

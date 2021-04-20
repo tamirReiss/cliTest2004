@@ -1,0 +1,13 @@
+outs:
+- md5: fa0c5817f2881ca5498620a24e2f2a2b
+  size: 17
+  path: file_66.txt
+meta:
+  hkube:
+    id: cli-0i0y
+    name: file_66.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187737
+    hash: fa0c5817f2881ca5498620a24e2f2a2b

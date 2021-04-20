@@ -1,0 +1,14 @@
+outs:
+- md5: 5608ef3416b8720b5753983943d213af
+  size: 17
+  path: file_18.txt
+meta:
+  hkube:
+    id: cli-rbs5
+    name: file_18.txt
+    size: 17
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1618914187824
+    hash: 5608ef3416b8720b5753983943d213af

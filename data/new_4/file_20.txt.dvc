@@ -1,0 +1,15 @@
+outs:
+- md5: bbaceafae3ba0cecf7e57f4db2c39601
+  size: 17
+  path: file_20.txt
+meta:
+  hkube:
+    id: cli-bs0x
+    name: file_20.txt
+    size: 17
+    type: text/plain
+    meta: |
+      first 20
+      from 20 to 40 
+    uploadedAt: 1618914187826
+    hash: bbaceafae3ba0cecf7e57f4db2c39601

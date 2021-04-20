@@ -1,0 +1,13 @@
+outs:
+- md5: 6e9ef4a6342577c53af3b97b0017eaa7
+  size: 17
+  path: file_77.txt
+meta:
+  hkube:
+    id: cli-a8py
+    name: file_77.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187807
+    hash: 6e9ef4a6342577c53af3b97b0017eaa7

@@ -1,0 +1,14 @@
+outs:
+- md5: 342f22f2478b3568fb03d42ea3e9edeb
+  size: 17
+  path: file_60.txt
+meta:
+  hkube:
+    id: cli-ybz0
+    name: file_60.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 40 to 60 
+    uploadedAt: 1618914187732
+    hash: 342f22f2478b3568fb03d42ea3e9edeb

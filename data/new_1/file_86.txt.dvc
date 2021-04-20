@@ -1,0 +1,13 @@
+outs:
+- md5: 0285138b0b04425cfbf99db283864d83
+  size: 17
+  path: file_86.txt
+meta:
+  hkube:
+    id: cli-zf4t
+    name: file_86.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187690
+    hash: 0285138b0b04425cfbf99db283864d83

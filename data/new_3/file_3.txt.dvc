@@ -1,0 +1,14 @@
+outs:
+- md5: 63cd4d0791cd92bd9af83929fd876269
+  size: 16
+  path: file_3.txt
+meta:
+  hkube:
+    id: cli-v7mu
+    name: file_3.txt
+    size: 16
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1618914187774
+    hash: 63cd4d0791cd92bd9af83929fd876269

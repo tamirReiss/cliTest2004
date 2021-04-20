@@ -1,0 +1,13 @@
+outs:
+- md5: 531a2b78be0843380c6fd2288576929c
+  size: 17
+  path: file_81.txt
+meta:
+  hkube:
+    id: cli-13nc
+    name: file_81.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187687
+    hash: 531a2b78be0843380c6fd2288576929c

@@ -1,0 +1,13 @@
+outs:
+- md5: 635b6a84b5bad21a8337da2023bf0d69
+  size: 17
+  path: file_65.txt
+meta:
+  hkube:
+    id: cli-iel1
+    name: file_65.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187675
+    hash: 635b6a84b5bad21a8337da2023bf0d69

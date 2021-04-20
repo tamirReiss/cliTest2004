@@ -1,0 +1,13 @@
+outs:
+- md5: 1e337b17d470d9f0f411066fdacbb0e5
+  size: 17
+  path: file_72.txt
+meta:
+  hkube:
+    id: cli-0bu3
+    name: file_72.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187748
+    hash: 1e337b17d470d9f0f411066fdacbb0e5

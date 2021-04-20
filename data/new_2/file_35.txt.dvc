@@ -1,0 +1,15 @@
+outs:
+- md5: a73d5edbeab86793eb0701c219cd30e2
+  size: 17
+  path: file_35.txt
+meta:
+  hkube:
+    id: cli-ip85
+    name: file_35.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 20 to 40 
+      from 30 to 50 
+    uploadedAt: 1618914187716
+    hash: a73d5edbeab86793eb0701c219cd30e2

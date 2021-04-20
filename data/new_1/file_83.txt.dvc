@@ -1,0 +1,13 @@
+outs:
+- md5: 08e27b8d893e4d4300c643efaca78200
+  size: 17
+  path: file_83.txt
+meta:
+  hkube:
+    id: cli-q6bq
+    name: file_83.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187688
+    hash: 08e27b8d893e4d4300c643efaca78200

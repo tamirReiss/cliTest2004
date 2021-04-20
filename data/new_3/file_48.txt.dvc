@@ -1,0 +1,15 @@
+outs:
+- md5: 1b40e9ad05d6895f81ad587852a85b86
+  size: 17
+  path: file_48.txt
+meta:
+  hkube:
+    id: cli-mg80
+    name: file_48.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 30 to 50 
+      from 40 to 60 
+    uploadedAt: 1618914187786
+    hash: 1b40e9ad05d6895f81ad587852a85b86

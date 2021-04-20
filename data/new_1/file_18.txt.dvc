@@ -1,0 +1,14 @@
+outs:
+- md5: eac735f2bede8d465330ec4a2d9b1b4d
+  size: 17
+  path: file_18.txt
+meta:
+  hkube:
+    id: cli-s95t
+    name: file_18.txt
+    size: 17
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1618914187637
+    hash: eac735f2bede8d465330ec4a2d9b1b4d

@@ -1,0 +1,13 @@
+outs:
+- md5: 982f2c50e24f5796b3c181be659b044f
+  size: 17
+  path: file_85.txt
+meta:
+  hkube:
+    id: cli-3ykf
+    name: file_85.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187810
+    hash: 982f2c50e24f5796b3c181be659b044f

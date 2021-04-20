@@ -1,0 +1,15 @@
+outs:
+- md5: a5452a203221788e5ecd3704b46e9399
+  size: 17
+  path: file_46.txt
+meta:
+  hkube:
+    id: cli-6dyi
+    name: file_46.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 30 to 50 
+      from 40 to 60 
+    uploadedAt: 1618914187840
+    hash: a5452a203221788e5ecd3704b46e9399

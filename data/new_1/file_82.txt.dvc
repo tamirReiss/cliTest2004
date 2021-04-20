@@ -1,0 +1,13 @@
+outs:
+- md5: 3d342132c949cc1656be2973f7e31d6e
+  size: 17
+  path: file_82.txt
+meta:
+  hkube:
+    id: cli-h3e9
+    name: file_82.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187688
+    hash: 3d342132c949cc1656be2973f7e31d6e

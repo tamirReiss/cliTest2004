@@ -1,0 +1,13 @@
+outs:
+- md5: eae09c3dfc95bce4b124bfe614dd58b7
+  size: 17
+  path: file_73.txt
+meta:
+  hkube:
+    id: cli-4prs
+    name: file_73.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187856
+    hash: eae09c3dfc95bce4b124bfe614dd58b7

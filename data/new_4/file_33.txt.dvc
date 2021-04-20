@@ -1,0 +1,15 @@
+outs:
+- md5: a6b2da325001adcf7ac41d1fa99b68e0
+  size: 17
+  path: file_33.txt
+meta:
+  hkube:
+    id: cli-joqc
+    name: file_33.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 20 to 40 
+      from 30 to 50 
+    uploadedAt: 1618914187834
+    hash: a6b2da325001adcf7ac41d1fa99b68e0

@@ -1,0 +1,13 @@
+outs:
+- md5: f6c8a9deaa4fee267cc1b15013168fe0
+  size: 17
+  path: file_64.txt
+meta:
+  hkube:
+    id: cli-zhea
+    name: file_64.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187675
+    hash: f6c8a9deaa4fee267cc1b15013168fe0

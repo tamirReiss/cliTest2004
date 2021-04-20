@@ -1,0 +1,15 @@
+outs:
+- md5: f2e86e38eb1fdce66595ee1679f1f751
+  size: 17
+  path: file_44.txt
+meta:
+  hkube:
+    id: cli-ctls
+    name: file_44.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 30 to 50 
+      from 40 to 60 
+    uploadedAt: 1618914187660
+    hash: f2e86e38eb1fdce66595ee1679f1f751

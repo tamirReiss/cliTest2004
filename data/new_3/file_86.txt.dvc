@@ -1,0 +1,13 @@
+outs:
+- md5: 20f2248944d74478eb83895266cda6bb
+  size: 17
+  path: file_86.txt
+meta:
+  hkube:
+    id: cli-wq0l
+    name: file_86.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187811
+    hash: 20f2248944d74478eb83895266cda6bb

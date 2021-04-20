@@ -1,0 +1,13 @@
+outs:
+- md5: b27a737a016212a34e711f53adea55de
+  size: 17
+  path: file_68.txt
+meta:
+  hkube:
+    id: cli-d99x
+    name: file_68.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187738
+    hash: b27a737a016212a34e711f53adea55de

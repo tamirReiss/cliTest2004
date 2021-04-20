@@ -1,0 +1,13 @@
+outs:
+- md5: 4d8dc245b889e02a6e19ed6bcff1b4db
+  size: 17
+  path: file_67.txt
+meta:
+  hkube:
+    id: cli-yx7i
+    name: file_67.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187853
+    hash: 4d8dc245b889e02a6e19ed6bcff1b4db

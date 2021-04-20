@@ -1,0 +1,13 @@
+outs:
+- md5: da88884620c9c51272c2254b4b3d0509
+  size: 17
+  path: file_92.txt
+meta:
+  hkube:
+    id: cli-shza
+    name: file_92.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187865
+    hash: da88884620c9c51272c2254b4b3d0509

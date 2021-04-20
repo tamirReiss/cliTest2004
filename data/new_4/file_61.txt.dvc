@@ -1,0 +1,13 @@
+outs:
+- md5: 10654e1371fe7ee5e8d84fdbf8123545
+  size: 17
+  path: file_61.txt
+meta:
+  hkube:
+    id: cli-c37h
+    name: file_61.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187850
+    hash: 10654e1371fe7ee5e8d84fdbf8123545

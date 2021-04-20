@@ -1,0 +1,15 @@
+outs:
+- md5: 532bbe6811a3fb9feeb9332a246e3ab7
+  size: 17
+  path: file_44.txt
+meta:
+  hkube:
+    id: cli-ts50
+    name: file_44.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 30 to 50 
+      from 40 to 60 
+    uploadedAt: 1618914187839
+    hash: 532bbe6811a3fb9feeb9332a246e3ab7

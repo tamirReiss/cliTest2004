@@ -1,0 +1,15 @@
+outs:
+- md5: bb1857f96f624c4849427ad29f763fbe
+  size: 17
+  path: file_37.txt
+meta:
+  hkube:
+    id: cli-ubqg
+    name: file_37.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 20 to 40 
+      from 30 to 50 
+    uploadedAt: 1618914187656
+    hash: bb1857f96f624c4849427ad29f763fbe

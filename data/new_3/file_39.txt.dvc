@@ -1,0 +1,15 @@
+outs:
+- md5: 614b02767a5eacef53c4f6ecbc6ad4cf
+  size: 17
+  path: file_39.txt
+meta:
+  hkube:
+    id: cli-4frn
+    name: file_39.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 20 to 40 
+      from 30 to 50 
+    uploadedAt: 1618914187779
+    hash: 614b02767a5eacef53c4f6ecbc6ad4cf

@@ -1,0 +1,13 @@
+outs:
+- md5: 5024142180d291a4fa0abea1216a34e8
+  size: 17
+  path: file_68.txt
+meta:
+  hkube:
+    id: cli-s0gz
+    name: file_68.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187853
+    hash: 5024142180d291a4fa0abea1216a34e8

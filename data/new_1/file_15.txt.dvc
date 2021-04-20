@@ -1,0 +1,14 @@
+outs:
+- md5: 497cbd54d02f66f111586e7bba463067
+  size: 17
+  path: file_15.txt
+meta:
+  hkube:
+    id: cli-fx0h
+    name: file_15.txt
+    size: 17
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1618914187635
+    hash: 497cbd54d02f66f111586e7bba463067

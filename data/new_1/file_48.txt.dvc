@@ -1,0 +1,15 @@
+outs:
+- md5: d564a7a30caf126a0ce4b0f460bd1216
+  size: 17
+  path: file_48.txt
+meta:
+  hkube:
+    id: cli-lu9i
+    name: file_48.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 30 to 50 
+      from 40 to 60 
+    uploadedAt: 1618914187662
+    hash: d564a7a30caf126a0ce4b0f460bd1216

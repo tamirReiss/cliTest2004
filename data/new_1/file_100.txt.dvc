@@ -1,0 +1,13 @@
+outs:
+- md5: 25e04ffa9ee92226d9fe9d24e9abcce4
+  size: 18
+  path: file_100.txt
+meta:
+  hkube:
+    id: cli-m3e0
+    name: file_100.txt
+    size: 18
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187630
+    hash: 25e04ffa9ee92226d9fe9d24e9abcce4

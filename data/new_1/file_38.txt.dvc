@@ -1,0 +1,15 @@
+outs:
+- md5: 9b3d0e19a3f39694453077e07c57b3b9
+  size: 17
+  path: file_38.txt
+meta:
+  hkube:
+    id: cli-qppx
+    name: file_38.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 20 to 40 
+      from 30 to 50 
+    uploadedAt: 1618914187657
+    hash: 9b3d0e19a3f39694453077e07c57b3b9

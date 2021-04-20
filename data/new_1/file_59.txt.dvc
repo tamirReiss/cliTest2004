@@ -1,0 +1,14 @@
+outs:
+- md5: e4c4df2c6a2707d46bdfda3a9ed3bc6f
+  size: 17
+  path: file_59.txt
+meta:
+  hkube:
+    id: cli-0bxn
+    name: file_59.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 40 to 60 
+    uploadedAt: 1618914187671
+    hash: e4c4df2c6a2707d46bdfda3a9ed3bc6f

@@ -1,0 +1,14 @@
+outs:
+- md5: 9dfe069dc1698c3ecfe938608485a9c1
+  size: 16
+  path: file_3.txt
+meta:
+  hkube:
+    id: cli-94sc
+    name: file_3.txt
+    size: 16
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1618914187647
+    hash: 9dfe069dc1698c3ecfe938608485a9c1

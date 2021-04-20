@@ -1,0 +1,13 @@
+outs:
+- md5: e61f0889a374a5d7e6e88f6ed16193b8
+  size: 17
+  path: file_65.txt
+meta:
+  hkube:
+    id: cli-5bxt
+    name: file_65.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187852
+    hash: e61f0889a374a5d7e6e88f6ed16193b8

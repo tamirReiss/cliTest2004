@@ -1,0 +1,15 @@
+outs:
+- md5: 27a472d3565a6d0316d3ecddedf03044
+  size: 17
+  path: file_35.txt
+meta:
+  hkube:
+    id: cli-4zpl
+    name: file_35.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 20 to 40 
+      from 30 to 50 
+    uploadedAt: 1618914187835
+    hash: 27a472d3565a6d0316d3ecddedf03044

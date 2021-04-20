@@ -1,0 +1,15 @@
+outs:
+- md5: 66461168be8a4b4df833c6da28de2b88
+  size: 17
+  path: file_41.txt
+meta:
+  hkube:
+    id: cli-m1i1
+    name: file_41.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 30 to 50 
+      from 40 to 60 
+    uploadedAt: 1618914187659
+    hash: 66461168be8a4b4df833c6da28de2b88

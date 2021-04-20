@@ -1,0 +1,15 @@
+outs:
+- md5: a8a569d858b664ebab42d177079265d8
+  size: 17
+  path: file_49.txt
+meta:
+  hkube:
+    id: cli-j3ay
+    name: file_49.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 30 to 50 
+      from 40 to 60 
+    uploadedAt: 1618914187663
+    hash: a8a569d858b664ebab42d177079265d8

@@ -1,0 +1,14 @@
+outs:
+- md5: c792e010cc81ba1dfab7c9b1605791eb
+  size: 16
+  path: file_8.txt
+meta:
+  hkube:
+    id: cli-kxzb
+    name: file_8.txt
+    size: 16
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1618914187859
+    hash: c792e010cc81ba1dfab7c9b1605791eb

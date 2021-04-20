@@ -1,0 +1,13 @@
+outs:
+- md5: 034d1d52424fdb621605ec404da24c79
+  size: 17
+  path: file_98.txt
+meta:
+  hkube:
+    id: cli-86cy
+    name: file_98.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187695
+    hash: 034d1d52424fdb621605ec404da24c79

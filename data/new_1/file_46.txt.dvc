@@ -1,0 +1,15 @@
+outs:
+- md5: 29ba69b87aa335e41e599e62f53b5698
+  size: 17
+  path: file_46.txt
+meta:
+  hkube:
+    id: cli-ene9
+    name: file_46.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 30 to 50 
+      from 40 to 60 
+    uploadedAt: 1618914187661
+    hash: 29ba69b87aa335e41e599e62f53b5698

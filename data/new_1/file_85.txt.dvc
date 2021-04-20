@@ -1,0 +1,13 @@
+outs:
+- md5: 4885dc8b77ca68a7c68da5fe1e2cb7b1
+  size: 17
+  path: file_85.txt
+meta:
+  hkube:
+    id: cli-lkyn
+    name: file_85.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187690
+    hash: 4885dc8b77ca68a7c68da5fe1e2cb7b1

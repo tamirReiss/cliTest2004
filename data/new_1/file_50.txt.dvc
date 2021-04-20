@@ -1,0 +1,15 @@
+outs:
+- md5: 641e821444869314242dd4ab6188874d
+  size: 17
+  path: file_50.txt
+meta:
+  hkube:
+    id: cli-bhz4
+    name: file_50.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 30 to 50 
+      from 40 to 60 
+    uploadedAt: 1618914187664
+    hash: 641e821444869314242dd4ab6188874d

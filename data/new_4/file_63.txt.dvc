@@ -1,0 +1,13 @@
+outs:
+- md5: 95dab965d7d4b566ded969f3d064c775
+  size: 17
+  path: file_63.txt
+meta:
+  hkube:
+    id: cli-5jr0
+    name: file_63.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187851
+    hash: 95dab965d7d4b566ded969f3d064c775

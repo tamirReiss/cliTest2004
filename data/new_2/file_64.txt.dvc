@@ -1,0 +1,13 @@
+outs:
+- md5: c8d38fd1949c737660f842b9d32997c6
+  size: 17
+  path: file_64.txt
+meta:
+  hkube:
+    id: cli-g5zw
+    name: file_64.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187736
+    hash: c8d38fd1949c737660f842b9d32997c6

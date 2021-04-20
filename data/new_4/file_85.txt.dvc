@@ -1,0 +1,13 @@
+outs:
+- md5: 186a1f82e6ce9cbd496e67a50016dbe9
+  size: 17
+  path: file_85.txt
+meta:
+  hkube:
+    id: cli-nkxw
+    name: file_85.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187862
+    hash: 186a1f82e6ce9cbd496e67a50016dbe9

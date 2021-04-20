@@ -1,0 +1,14 @@
+outs:
+- md5: efabf3036ab07f93bab89037697250e3
+  size: 16
+  path: file_2.txt
+meta:
+  hkube:
+    id: cli-m8pf
+    name: file_2.txt
+    size: 16
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1618914187825
+    hash: efabf3036ab07f93bab89037697250e3

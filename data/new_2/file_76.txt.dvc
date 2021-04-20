@@ -1,0 +1,13 @@
+outs:
+- md5: bc2e2504f9cac30ba592690f963a2003
+  size: 17
+  path: file_76.txt
+meta:
+  hkube:
+    id: cli-orbr
+    name: file_76.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187751
+    hash: bc2e2504f9cac30ba592690f963a2003

@@ -1,0 +1,13 @@
+outs:
+- md5: 6b8478b622e8a5499f2aabd7ecabb9d7
+  size: 17
+  path: file_73.txt
+meta:
+  hkube:
+    id: cli-xcew
+    name: file_73.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187749
+    hash: 6b8478b622e8a5499f2aabd7ecabb9d7

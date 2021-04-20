@@ -1,0 +1,13 @@
+outs:
+- md5: 813ed3efa93ee010ca9a63cc0ad9d218
+  size: 17
+  path: file_88.txt
+meta:
+  hkube:
+    id: cli-hz7v
+    name: file_88.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187863
+    hash: 813ed3efa93ee010ca9a63cc0ad9d218

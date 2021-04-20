@@ -1,0 +1,13 @@
+outs:
+- md5: fd96de34313034422d559355b38f0764
+  size: 17
+  path: file_80.txt
+meta:
+  hkube:
+    id: cli-ush9
+    name: file_80.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187686
+    hash: fd96de34313034422d559355b38f0764

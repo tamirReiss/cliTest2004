@@ -1,0 +1,15 @@
+outs:
+- md5: 80158ad25ffeac90dd246da5d73d29d0
+  size: 17
+  path: file_48.txt
+meta:
+  hkube:
+    id: cli-3hh2
+    name: file_48.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 30 to 50 
+      from 40 to 60 
+    uploadedAt: 1618914187841
+    hash: 80158ad25ffeac90dd246da5d73d29d0

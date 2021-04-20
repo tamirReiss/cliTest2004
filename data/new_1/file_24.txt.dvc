@@ -1,0 +1,14 @@
+outs:
+- md5: 6319a181b1703234251a3436a8433dd6
+  size: 17
+  path: file_24.txt
+meta:
+  hkube:
+    id: cli-q2gg
+    name: file_24.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 20 to 40 
+    uploadedAt: 1618914187643
+    hash: 6319a181b1703234251a3436a8433dd6

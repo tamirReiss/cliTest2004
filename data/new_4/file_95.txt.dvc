@@ -1,0 +1,13 @@
+outs:
+- md5: 760949647630cf70467c0afee01f5399
+  size: 17
+  path: file_95.txt
+meta:
+  hkube:
+    id: cli-3i7e
+    name: file_95.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187866
+    hash: 760949647630cf70467c0afee01f5399

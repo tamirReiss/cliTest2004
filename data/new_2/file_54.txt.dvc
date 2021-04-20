@@ -1,0 +1,14 @@
+outs:
+- md5: 83aec4807cb9ec3431c89cfd2f83088b
+  size: 17
+  path: file_54.txt
+meta:
+  hkube:
+    id: cli-w1zk
+    name: file_54.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 40 to 60 
+    uploadedAt: 1618914187727
+    hash: 83aec4807cb9ec3431c89cfd2f83088b

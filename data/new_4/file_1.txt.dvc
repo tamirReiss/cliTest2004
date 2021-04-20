@@ -1,0 +1,14 @@
+outs:
+- md5: 91cc39364affbd881ac1abeafb673901
+  size: 16
+  path: file_1.txt
+meta:
+  hkube:
+    id: cli-tu9w
+    name: file_1.txt
+    size: 16
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1618914187817
+    hash: 91cc39364affbd881ac1abeafb673901

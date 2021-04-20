@@ -1,0 +1,14 @@
+outs:
+- md5: 1bf157c5fed7f326a418e776f23344ef
+  size: 17
+  path: file_16.txt
+meta:
+  hkube:
+    id: cli-ynjr
+    name: file_16.txt
+    size: 17
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1618914187767
+    hash: 1bf157c5fed7f326a418e776f23344ef

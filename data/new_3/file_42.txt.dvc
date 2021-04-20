@@ -1,0 +1,15 @@
+outs:
+- md5: b0481243e9b471a81983978806adbd83
+  size: 17
+  path: file_42.txt
+meta:
+  hkube:
+    id: cli-b5ij
+    name: file_42.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 30 to 50 
+      from 40 to 60 
+    uploadedAt: 1618914187782
+    hash: b0481243e9b471a81983978806adbd83

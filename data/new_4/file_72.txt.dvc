@@ -1,0 +1,13 @@
+outs:
+- md5: 46752e7a124a72be16ab285945ad3205
+  size: 17
+  path: file_72.txt
+meta:
+  hkube:
+    id: cli-xzhr
+    name: file_72.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187856
+    hash: 46752e7a124a72be16ab285945ad3205

@@ -1,0 +1,14 @@
+outs:
+- md5: 6f10b9558ef461b98c370057f4eec368
+  size: 17
+  path: file_51.txt
+meta:
+  hkube:
+    id: cli-rajm
+    name: file_51.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 40 to 60 
+    uploadedAt: 1618914187787
+    hash: 6f10b9558ef461b98c370057f4eec368

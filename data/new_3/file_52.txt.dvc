@@ -1,0 +1,14 @@
+outs:
+- md5: da43a84b49bf949774289056ba99f21f
+  size: 17
+  path: file_52.txt
+meta:
+  hkube:
+    id: cli-9e9t
+    name: file_52.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 40 to 60 
+    uploadedAt: 1618914187789
+    hash: da43a84b49bf949774289056ba99f21f

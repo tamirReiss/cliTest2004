@@ -1,0 +1,15 @@
+outs:
+- md5: a71d6c0b6e87add2443b80d2e950f4ee
+  size: 17
+  path: file_41.txt
+meta:
+  hkube:
+    id: cli-frzp
+    name: file_41.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 30 to 50 
+      from 40 to 60 
+    uploadedAt: 1618914187838
+    hash: a71d6c0b6e87add2443b80d2e950f4ee

@@ -1,0 +1,13 @@
+outs:
+- md5: 1315536a69ab62dc405999028d3dd54a
+  size: 17
+  path: file_72.txt
+meta:
+  hkube:
+    id: cli-el7g
+    name: file_72.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187679
+    hash: 1315536a69ab62dc405999028d3dd54a

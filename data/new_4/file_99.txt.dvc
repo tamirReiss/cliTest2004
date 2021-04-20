@@ -1,0 +1,13 @@
+outs:
+- md5: 6a8dc0404f8acc2167f218b819f5bf5c
+  size: 17
+  path: file_99.txt
+meta:
+  hkube:
+    id: cli-owol
+    name: file_99.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187868
+    hash: 6a8dc0404f8acc2167f218b819f5bf5c

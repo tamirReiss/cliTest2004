@@ -1,0 +1,14 @@
+outs:
+- md5: 3547a914a99c0a05667a242542141d4c
+  size: 17
+  path: file_24.txt
+meta:
+  hkube:
+    id: cli-1bgc
+    name: file_24.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 20 to 40 
+    uploadedAt: 1618914187828
+    hash: 3547a914a99c0a05667a242542141d4c

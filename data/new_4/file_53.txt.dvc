@@ -1,0 +1,14 @@
+outs:
+- md5: 457c3775e12f10da49be2e531f04d6cf
+  size: 17
+  path: file_53.txt
+meta:
+  hkube:
+    id: cli-5lek
+    name: file_53.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 40 to 60 
+    uploadedAt: 1618914187844
+    hash: 457c3775e12f10da49be2e531f04d6cf

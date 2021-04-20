@@ -1,0 +1,15 @@
+outs:
+- md5: abcf61ffbd691ed75f6ef4a0d24e3819
+  size: 17
+  path: file_43.txt
+meta:
+  hkube:
+    id: cli-punr
+    name: file_43.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 30 to 50 
+      from 40 to 60 
+    uploadedAt: 1618914187660
+    hash: abcf61ffbd691ed75f6ef4a0d24e3819

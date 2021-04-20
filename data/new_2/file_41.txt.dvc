@@ -1,0 +1,15 @@
+outs:
+- md5: b36b2ffc3faa6a5749566394096c8123
+  size: 17
+  path: file_41.txt
+meta:
+  hkube:
+    id: cli-xavq
+    name: file_41.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 30 to 50 
+      from 40 to 60 
+    uploadedAt: 1618914187719
+    hash: b36b2ffc3faa6a5749566394096c8123

@@ -1,0 +1,14 @@
+outs:
+- md5: 1fb4704ec3a4140d3fc746fc4b7ecf10
+  size: 17
+  path: file_28.txt
+meta:
+  hkube:
+    id: cli-1bm4
+    name: file_28.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 20 to 40 
+    uploadedAt: 1618914187831
+    hash: 1fb4704ec3a4140d3fc746fc4b7ecf10

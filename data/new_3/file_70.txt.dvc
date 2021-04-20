@@ -1,0 +1,13 @@
+outs:
+- md5: f46593176497bef7740e960717fbebeb
+  size: 17
+  path: file_70.txt
+meta:
+  hkube:
+    id: cli-dyk8
+    name: file_70.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187805
+    hash: f46593176497bef7740e960717fbebeb

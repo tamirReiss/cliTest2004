@@ -1,0 +1,15 @@
+outs:
+- md5: 1a9ec6e5ab972fb01c4e2aada14214c9
+  size: 17
+  path: file_31.txt
+meta:
+  hkube:
+    id: cli-ghq9
+    name: file_31.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 20 to 40 
+      from 30 to 50 
+    uploadedAt: 1618914187650
+    hash: 1a9ec6e5ab972fb01c4e2aada14214c9

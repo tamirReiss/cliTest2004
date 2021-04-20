@@ -1,0 +1,15 @@
+outs:
+- md5: b6792f0c265bb917bc22ad23365888f5
+  size: 17
+  path: file_47.txt
+meta:
+  hkube:
+    id: cli-wtmx
+    name: file_47.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 30 to 50 
+      from 40 to 60 
+    uploadedAt: 1618914187662
+    hash: b6792f0c265bb917bc22ad23365888f5

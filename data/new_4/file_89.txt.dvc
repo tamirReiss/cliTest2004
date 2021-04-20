@@ -1,0 +1,13 @@
+outs:
+- md5: 574286c164a2290d3909e16a54223b41
+  size: 17
+  path: file_89.txt
+meta:
+  hkube:
+    id: cli-iibj
+    name: file_89.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187863
+    hash: 574286c164a2290d3909e16a54223b41

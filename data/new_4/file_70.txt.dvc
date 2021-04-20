@@ -1,0 +1,13 @@
+outs:
+- md5: 9e55f7826309834d00cb826d8e984ae4
+  size: 17
+  path: file_70.txt
+meta:
+  hkube:
+    id: cli-z4jd
+    name: file_70.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187855
+    hash: 9e55f7826309834d00cb826d8e984ae4

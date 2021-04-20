@@ -1,0 +1,13 @@
+outs:
+- md5: a1a13455e002b33bc6e1e623f8fd072d
+  size: 17
+  path: file_76.txt
+meta:
+  hkube:
+    id: cli-shfe
+    name: file_76.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187683
+    hash: a1a13455e002b33bc6e1e623f8fd072d

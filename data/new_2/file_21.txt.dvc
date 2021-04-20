@@ -1,0 +1,14 @@
+outs:
+- md5: 58e2551ef58663395eb9171f4c1771e0
+  size: 17
+  path: file_21.txt
+meta:
+  hkube:
+    id: cli-d2kn
+    name: file_21.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 20 to 40 
+    uploadedAt: 1618914187705
+    hash: 58e2551ef58663395eb9171f4c1771e0

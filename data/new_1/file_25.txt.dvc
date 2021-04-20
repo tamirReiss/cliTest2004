@@ -1,0 +1,14 @@
+outs:
+- md5: 63e78e99b9ee45fb0ac6c7a369aed1c8
+  size: 17
+  path: file_25.txt
+meta:
+  hkube:
+    id: cli-k4x0
+    name: file_25.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 20 to 40 
+    uploadedAt: 1618914187644
+    hash: 63e78e99b9ee45fb0ac6c7a369aed1c8

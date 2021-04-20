@@ -1,0 +1,14 @@
+outs:
+- md5: 41746705529b605c25db03e8bad97e0d
+  size: 17
+  path: file_17.txt
+meta:
+  hkube:
+    id: cli-1kdy
+    name: file_17.txt
+    size: 17
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1618914187768
+    hash: 41746705529b605c25db03e8bad97e0d

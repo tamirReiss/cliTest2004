@@ -1,0 +1,13 @@
+outs:
+- md5: 23f95465217bd5f34dd97e839b3c77d3
+  size: 17
+  path: file_75.txt
+meta:
+  hkube:
+    id: cli-pdpd
+    name: file_75.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187682
+    hash: 23f95465217bd5f34dd97e839b3c77d3

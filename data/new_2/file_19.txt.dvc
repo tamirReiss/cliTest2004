@@ -1,0 +1,14 @@
+outs:
+- md5: d223c86309ad6aabee6c38a36f85aef1
+  size: 17
+  path: file_19.txt
+meta:
+  hkube:
+    id: cli-yc71
+    name: file_19.txt
+    size: 17
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1618914187703
+    hash: d223c86309ad6aabee6c38a36f85aef1

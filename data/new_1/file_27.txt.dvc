@@ -1,0 +1,14 @@
+outs:
+- md5: 456174aa184be895e05ee1b225335a86
+  size: 17
+  path: file_27.txt
+meta:
+  hkube:
+    id: cli-yjdi
+    name: file_27.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 20 to 40 
+    uploadedAt: 1618914187645
+    hash: 456174aa184be895e05ee1b225335a86

@@ -1,0 +1,15 @@
+outs:
+- md5: af5ed7a5c210888bf6f77af37ccef422
+  size: 17
+  path: file_20.txt
+meta:
+  hkube:
+    id: cli-05pe
+    name: file_20.txt
+    size: 17
+    type: text/plain
+    meta: |
+      first 20
+      from 20 to 40 
+    uploadedAt: 1618914187640
+    hash: af5ed7a5c210888bf6f77af37ccef422

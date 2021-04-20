@@ -1,0 +1,15 @@
+outs:
+- md5: 6af37a232e9abfc6afdd5331b71e7b78
+  size: 17
+  path: file_34.txt
+meta:
+  hkube:
+    id: cli-rrfb
+    name: file_34.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 20 to 40 
+      from 30 to 50 
+    uploadedAt: 1618914187835
+    hash: 6af37a232e9abfc6afdd5331b71e7b78

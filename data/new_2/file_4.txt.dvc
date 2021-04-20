@@ -1,0 +1,14 @@
+outs:
+- md5: 216aaff2dcdbe5627e455926080f3012
+  size: 16
+  path: file_4.txt
+meta:
+  hkube:
+    id: cli-37ht
+    name: file_4.txt
+    size: 16
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1618914187718
+    hash: 216aaff2dcdbe5627e455926080f3012

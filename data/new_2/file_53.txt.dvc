@@ -1,0 +1,14 @@
+outs:
+- md5: 89c908fc4395505f29fd2661abea7a46
+  size: 17
+  path: file_53.txt
+meta:
+  hkube:
+    id: cli-dv2w
+    name: file_53.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 40 to 60 
+    uploadedAt: 1618914187726
+    hash: 89c908fc4395505f29fd2661abea7a46

@@ -1,0 +1,14 @@
+outs:
+- md5: e98f42c301d70668897aeddb86712f98
+  size: 17
+  path: file_53.txt
+meta:
+  hkube:
+    id: cli-tmuq
+    name: file_53.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 40 to 60 
+    uploadedAt: 1618914187666
+    hash: e98f42c301d70668897aeddb86712f98

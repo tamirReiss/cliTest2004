@@ -1,0 +1,13 @@
+outs:
+- md5: 7758cb56589276a968bbe7fb1ae24546
+  size: 17
+  path: file_75.txt
+meta:
+  hkube:
+    id: cli-chgb
+    name: file_75.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187750
+    hash: 7758cb56589276a968bbe7fb1ae24546

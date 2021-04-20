@@ -1,0 +1,14 @@
+outs:
+- md5: 0c8d396004f0b7448e3dcf0db639f8d9
+  size: 16
+  path: file_5.txt
+meta:
+  hkube:
+    id: cli-8roe
+    name: file_5.txt
+    size: 16
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1618914187842
+    hash: 0c8d396004f0b7448e3dcf0db639f8d9

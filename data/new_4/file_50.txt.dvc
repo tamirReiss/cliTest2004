@@ -1,0 +1,15 @@
+outs:
+- md5: ac71e5e8aa2cb8118cbbef733ede65f0
+  size: 17
+  path: file_50.txt
+meta:
+  hkube:
+    id: cli-86h4
+    name: file_50.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 30 to 50 
+      from 40 to 60 
+    uploadedAt: 1618914187843
+    hash: ac71e5e8aa2cb8118cbbef733ede65f0

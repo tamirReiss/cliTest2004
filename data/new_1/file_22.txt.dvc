@@ -1,0 +1,14 @@
+outs:
+- md5: 295745c014ba341250b8358a8bf699a6
+  size: 17
+  path: file_22.txt
+meta:
+  hkube:
+    id: cli-9tzc
+    name: file_22.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 20 to 40 
+    uploadedAt: 1618914187642
+    hash: 295745c014ba341250b8358a8bf699a6

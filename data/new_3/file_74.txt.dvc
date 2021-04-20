@@ -1,0 +1,13 @@
+outs:
+- md5: 6e0caa977397ee5847af4c3361013112
+  size: 17
+  path: file_74.txt
+meta:
+  hkube:
+    id: cli-42ju
+    name: file_74.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187806
+    hash: 6e0caa977397ee5847af4c3361013112

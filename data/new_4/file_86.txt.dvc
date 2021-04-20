@@ -1,0 +1,13 @@
+outs:
+- md5: a510b8643e8cf31761eb27ef63f8ae8a
+  size: 17
+  path: file_86.txt
+meta:
+  hkube:
+    id: cli-nn1j
+    name: file_86.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187862
+    hash: a510b8643e8cf31761eb27ef63f8ae8a

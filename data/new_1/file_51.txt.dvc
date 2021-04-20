@@ -1,0 +1,14 @@
+outs:
+- md5: be115841ed781dbfec21f4a5718fa761
+  size: 17
+  path: file_51.txt
+meta:
+  hkube:
+    id: cli-imfe
+    name: file_51.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 40 to 60 
+    uploadedAt: 1618914187665
+    hash: be115841ed781dbfec21f4a5718fa761

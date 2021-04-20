@@ -1,0 +1,13 @@
+outs:
+- md5: 140013eef4bdef7cd1c452b87f229049
+  size: 17
+  path: file_80.txt
+meta:
+  hkube:
+    id: cli-3sii
+    name: file_80.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187809
+    hash: 140013eef4bdef7cd1c452b87f229049

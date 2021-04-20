@@ -1,0 +1,13 @@
+outs:
+- md5: b4fba6c44da97a543992252f03e8ad40
+  size: 17
+  path: file_79.txt
+meta:
+  hkube:
+    id: cli-295m
+    name: file_79.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187685
+    hash: b4fba6c44da97a543992252f03e8ad40

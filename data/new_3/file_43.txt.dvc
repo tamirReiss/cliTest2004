@@ -1,0 +1,15 @@
+outs:
+- md5: 3f25cbda38b86b8a1ab2f0346458eaff
+  size: 17
+  path: file_43.txt
+meta:
+  hkube:
+    id: cli-t6f2
+    name: file_43.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 30 to 50 
+      from 40 to 60 
+    uploadedAt: 1618914187782
+    hash: 3f25cbda38b86b8a1ab2f0346458eaff

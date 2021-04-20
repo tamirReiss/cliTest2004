@@ -1,0 +1,13 @@
+outs:
+- md5: 7e24906c36b656e70ad455b40ec16d17
+  size: 17
+  path: file_97.txt
+meta:
+  hkube:
+    id: cli-i9es
+    name: file_97.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187867
+    hash: 7e24906c36b656e70ad455b40ec16d17

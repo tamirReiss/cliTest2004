@@ -1,0 +1,15 @@
+outs:
+- md5: 1e10e8c89a7ca01b62d8b0912ea6eb58
+  size: 17
+  path: file_30.txt
+meta:
+  hkube:
+    id: cli-5hm8
+    name: file_30.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 20 to 40 
+      from 30 to 50 
+    uploadedAt: 1618914187649
+    hash: 1e10e8c89a7ca01b62d8b0912ea6eb58

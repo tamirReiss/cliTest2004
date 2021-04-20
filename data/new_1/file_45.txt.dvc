@@ -1,0 +1,15 @@
+outs:
+- md5: bf6b7947d41de7db32f92e7ac9ff4d15
+  size: 17
+  path: file_45.txt
+meta:
+  hkube:
+    id: cli-rtkx
+    name: file_45.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 30 to 50 
+      from 40 to 60 
+    uploadedAt: 1618914187661
+    hash: bf6b7947d41de7db32f92e7ac9ff4d15

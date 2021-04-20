@@ -1,0 +1,15 @@
+outs:
+- md5: 0394c1bd84b4f2b55a85bcb8092de683
+  size: 17
+  path: file_45.txt
+meta:
+  hkube:
+    id: cli-ubir
+    name: file_45.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 30 to 50 
+      from 40 to 60 
+    uploadedAt: 1618914187839
+    hash: 0394c1bd84b4f2b55a85bcb8092de683

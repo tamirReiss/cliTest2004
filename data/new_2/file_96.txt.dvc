@@ -1,0 +1,13 @@
+outs:
+- md5: 840379304ef5a8c38ea0b74ab730e18f
+  size: 17
+  path: file_96.txt
+meta:
+  hkube:
+    id: cli-708b
+    name: file_96.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187761
+    hash: 840379304ef5a8c38ea0b74ab730e18f

@@ -1,0 +1,14 @@
+outs:
+- md5: 5131815a632e9ec0bac3b63aab5df562
+  size: 17
+  path: file_55.txt
+meta:
+  hkube:
+    id: cli-giqv
+    name: file_55.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 40 to 60 
+    uploadedAt: 1618914187845
+    hash: 5131815a632e9ec0bac3b63aab5df562

@@ -1,0 +1,15 @@
+outs:
+- md5: 342d326e16943557f142d59c279980e6
+  size: 17
+  path: file_44.txt
+meta:
+  hkube:
+    id: cli-kbyx
+    name: file_44.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 30 to 50 
+      from 40 to 60 
+    uploadedAt: 1618914187721
+    hash: 342d326e16943557f142d59c279980e6

@@ -1,0 +1,15 @@
+outs:
+- md5: 3651e5b0e1ca497ce1011b942ead604d
+  size: 17
+  path: file_33.txt
+meta:
+  hkube:
+    id: cli-hdh1
+    name: file_33.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 20 to 40 
+      from 30 to 50 
+    uploadedAt: 1618914187652
+    hash: 3651e5b0e1ca497ce1011b942ead604d

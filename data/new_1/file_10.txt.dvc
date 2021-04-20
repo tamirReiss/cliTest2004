@@ -1,0 +1,14 @@
+outs:
+- md5: 45ea8ef3b192002e968c821ee07dcb7a
+  size: 17
+  path: file_10.txt
+meta:
+  hkube:
+    id: cli-3lhq
+    name: file_10.txt
+    size: 17
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1618914187629
+    hash: 45ea8ef3b192002e968c821ee07dcb7a

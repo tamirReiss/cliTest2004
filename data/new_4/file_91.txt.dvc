@@ -1,0 +1,13 @@
+outs:
+- md5: bfdbd5f2598d32bfe099a50a71ff8530
+  size: 17
+  path: file_91.txt
+meta:
+  hkube:
+    id: cli-z1wn
+    name: file_91.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187864
+    hash: bfdbd5f2598d32bfe099a50a71ff8530

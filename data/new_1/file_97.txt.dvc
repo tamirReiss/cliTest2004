@@ -1,0 +1,13 @@
+outs:
+- md5: 2fce666c5bdefccab088f2afc1c234b3
+  size: 17
+  path: file_97.txt
+meta:
+  hkube:
+    id: cli-a5oe
+    name: file_97.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187695
+    hash: 2fce666c5bdefccab088f2afc1c234b3

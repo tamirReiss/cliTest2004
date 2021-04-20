@@ -1,0 +1,13 @@
+outs:
+- md5: 552daff53c033b49f4530a10e8744e4d
+  size: 17
+  path: file_73.txt
+meta:
+  hkube:
+    id: cli-ouqt
+    name: file_73.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187679
+    hash: 552daff53c033b49f4530a10e8744e4d

@@ -1,0 +1,14 @@
+outs:
+- md5: 3ec9c462cf2c87a4254874ec338ace4b
+  size: 17
+  path: file_12.txt
+meta:
+  hkube:
+    id: cli-dm6m
+    name: file_12.txt
+    size: 17
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1618914187632
+    hash: 3ec9c462cf2c87a4254874ec338ace4b

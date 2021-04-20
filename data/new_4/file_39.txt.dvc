@@ -1,0 +1,15 @@
+outs:
+- md5: bd5f6d3ec1afefccfc28a915469c4e4c
+  size: 17
+  path: file_39.txt
+meta:
+  hkube:
+    id: cli-f32l
+    name: file_39.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 20 to 40 
+      from 30 to 50 
+    uploadedAt: 1618914187837
+    hash: bd5f6d3ec1afefccfc28a915469c4e4c

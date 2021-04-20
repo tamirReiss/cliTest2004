@@ -1,0 +1,14 @@
+outs:
+- md5: 2ebc1db2f133850d9ae2f27c94dc7d4b
+  size: 16
+  path: file_6.txt
+meta:
+  hkube:
+    id: cli-jgky
+    name: file_6.txt
+    size: 16
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1618914187672
+    hash: 2ebc1db2f133850d9ae2f27c94dc7d4b

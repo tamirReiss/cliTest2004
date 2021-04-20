@@ -1,0 +1,16 @@
+outs:
+- md5: 40dae24b83cda6776e58adaba7a9f054
+  size: 17
+  path: file_40.txt
+meta:
+  hkube:
+    id: cli-pgrv
+    name: file_40.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 20 to 40 
+      from 30 to 50 
+      from 40 to 60 
+    uploadedAt: 1618914187837
+    hash: 40dae24b83cda6776e58adaba7a9f054

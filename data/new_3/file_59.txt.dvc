@@ -1,0 +1,14 @@
+outs:
+- md5: 265e625ca326300dbce58628218b5ddb
+  size: 17
+  path: file_59.txt
+meta:
+  hkube:
+    id: cli-7rfe
+    name: file_59.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 40 to 60 
+    uploadedAt: 1618914187801
+    hash: 265e625ca326300dbce58628218b5ddb

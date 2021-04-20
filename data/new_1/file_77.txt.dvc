@@ -1,0 +1,13 @@
+outs:
+- md5: 902cf09ea6314b72dd66575a91db46d1
+  size: 17
+  path: file_77.txt
+meta:
+  hkube:
+    id: cli-0oh5
+    name: file_77.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187683
+    hash: 902cf09ea6314b72dd66575a91db46d1

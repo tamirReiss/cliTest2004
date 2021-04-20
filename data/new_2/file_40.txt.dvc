@@ -1,0 +1,16 @@
+outs:
+- md5: 3c99a4d442e40a4937c25d4e459c43c9
+  size: 17
+  path: file_40.txt
+meta:
+  hkube:
+    id: cli-yje8
+    name: file_40.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 20 to 40 
+      from 30 to 50 
+      from 40 to 60 
+    uploadedAt: 1618914187719
+    hash: 3c99a4d442e40a4937c25d4e459c43c9

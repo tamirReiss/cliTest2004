@@ -1,0 +1,13 @@
+outs:
+- md5: 6f9725824a62886ea3c922806f67fd9b
+  size: 17
+  path: file_94.txt
+meta:
+  hkube:
+    id: cli-3gap
+    name: file_94.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187761
+    hash: 6f9725824a62886ea3c922806f67fd9b

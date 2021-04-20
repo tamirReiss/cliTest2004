@@ -1,0 +1,13 @@
+outs:
+- md5: 2997c1b6edaf26df1b9760d4450cb48d
+  size: 17
+  path: file_95.txt
+meta:
+  hkube:
+    id: cli-xdrn
+    name: file_95.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187761
+    hash: 2997c1b6edaf26df1b9760d4450cb48d

@@ -1,0 +1,13 @@
+outs:
+- md5: afe3c303455084eefd07e531e04933bd
+  size: 17
+  path: file_71.txt
+meta:
+  hkube:
+    id: cli-iqof
+    name: file_71.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187855
+    hash: afe3c303455084eefd07e531e04933bd

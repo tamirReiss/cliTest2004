@@ -1,0 +1,13 @@
+outs:
+- md5: be55de95599ad4d79e568304ecb0fdcc
+  size: 17
+  path: file_93.txt
+meta:
+  hkube:
+    id: cli-vegc
+    name: file_93.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187813
+    hash: be55de95599ad4d79e568304ecb0fdcc

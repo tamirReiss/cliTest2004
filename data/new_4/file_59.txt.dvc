@@ -1,0 +1,14 @@
+outs:
+- md5: dc6abb0be136cb5b361e82a761b62f2c
+  size: 17
+  path: file_59.txt
+meta:
+  hkube:
+    id: cli-vr5w
+    name: file_59.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 40 to 60 
+    uploadedAt: 1618914187849
+    hash: dc6abb0be136cb5b361e82a761b62f2c

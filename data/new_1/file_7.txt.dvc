@@ -1,0 +1,14 @@
+outs:
+- md5: 69434361df92fa92ee63d01c236a81f6
+  size: 16
+  path: file_7.txt
+meta:
+  hkube:
+    id: cli-zrgx
+    name: file_7.txt
+    size: 16
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1618914187677
+    hash: 69434361df92fa92ee63d01c236a81f6

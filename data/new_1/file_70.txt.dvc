@@ -1,0 +1,13 @@
+outs:
+- md5: f4848cd0c04288dedb9ccbb351a16dd6
+  size: 17
+  path: file_70.txt
+meta:
+  hkube:
+    id: cli-w9bz
+    name: file_70.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187678
+    hash: f4848cd0c04288dedb9ccbb351a16dd6

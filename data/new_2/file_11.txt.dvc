@@ -1,0 +1,14 @@
+outs:
+- md5: d546eb08fd7254f43076f254b9d9260f
+  size: 17
+  path: file_11.txt
+meta:
+  hkube:
+    id: cli-spkl
+    name: file_11.txt
+    size: 17
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1618914187698
+    hash: d546eb08fd7254f43076f254b9d9260f

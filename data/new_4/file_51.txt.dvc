@@ -1,0 +1,14 @@
+outs:
+- md5: 4387c76473f0e9e2c292c31ae1dcf31d
+  size: 17
+  path: file_51.txt
+meta:
+  hkube:
+    id: cli-401e
+    name: file_51.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 40 to 60 
+    uploadedAt: 1618914187843
+    hash: 4387c76473f0e9e2c292c31ae1dcf31d

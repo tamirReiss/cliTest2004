@@ -1,0 +1,13 @@
+outs:
+- md5: 48cce7f3e283edfbe5fb7056d42b3f78
+  size: 17
+  path: file_90.txt
+meta:
+  hkube:
+    id: cli-xciw
+    name: file_90.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187864
+    hash: 48cce7f3e283edfbe5fb7056d42b3f78

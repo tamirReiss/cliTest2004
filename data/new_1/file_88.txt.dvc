@@ -1,0 +1,13 @@
+outs:
+- md5: d18f988f3dda5731777cefe8d885dca5
+  size: 17
+  path: file_88.txt
+meta:
+  hkube:
+    id: cli-ei6h
+    name: file_88.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187691
+    hash: d18f988f3dda5731777cefe8d885dca5

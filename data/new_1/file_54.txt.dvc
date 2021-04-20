@@ -1,0 +1,14 @@
+outs:
+- md5: dc164244ffaedfbb55447a5c581c89d6
+  size: 17
+  path: file_54.txt
+meta:
+  hkube:
+    id: cli-kvsz
+    name: file_54.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 40 to 60 
+    uploadedAt: 1618914187668
+    hash: dc164244ffaedfbb55447a5c581c89d6

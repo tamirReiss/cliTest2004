@@ -1,0 +1,15 @@
+outs:
+- md5: b3cb1260341908299826fed9fc06e481
+  size: 17
+  path: file_36.txt
+meta:
+  hkube:
+    id: cli-4wp2
+    name: file_36.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 20 to 40 
+      from 30 to 50 
+    uploadedAt: 1618914187717
+    hash: b3cb1260341908299826fed9fc06e481

@@ -1,0 +1,14 @@
+outs:
+- md5: 77eb6b89343899656fa590cf6cd81a94
+  size: 17
+  path: file_57.txt
+meta:
+  hkube:
+    id: cli-hra2
+    name: file_57.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 40 to 60 
+    uploadedAt: 1618914187847
+    hash: 77eb6b89343899656fa590cf6cd81a94

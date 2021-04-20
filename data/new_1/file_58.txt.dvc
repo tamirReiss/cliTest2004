@@ -1,0 +1,14 @@
+outs:
+- md5: 14ffd1c5749360fed4cb51e37018fc65
+  size: 17
+  path: file_58.txt
+meta:
+  hkube:
+    id: cli-cdol
+    name: file_58.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 40 to 60 
+    uploadedAt: 1618914187671
+    hash: 14ffd1c5749360fed4cb51e37018fc65

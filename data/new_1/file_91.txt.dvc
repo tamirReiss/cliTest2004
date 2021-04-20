@@ -1,0 +1,13 @@
+outs:
+- md5: 37a016593d9bb7e01118f517a82241a0
+  size: 17
+  path: file_91.txt
+meta:
+  hkube:
+    id: cli-14of
+    name: file_91.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187693
+    hash: 37a016593d9bb7e01118f517a82241a0

@@ -1,0 +1,13 @@
+outs:
+- md5: f7ccdc0c575fec1d5fad02551976e867
+  size: 17
+  path: file_98.txt
+meta:
+  hkube:
+    id: cli-xdup
+    name: file_98.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187816
+    hash: f7ccdc0c575fec1d5fad02551976e867

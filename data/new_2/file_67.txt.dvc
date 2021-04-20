@@ -1,0 +1,13 @@
+outs:
+- md5: a602343735c16b2c62bc800b78f633aa
+  size: 17
+  path: file_67.txt
+meta:
+  hkube:
+    id: cli-xjzs
+    name: file_67.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187737
+    hash: a602343735c16b2c62bc800b78f633aa

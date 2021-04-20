@@ -1,0 +1,13 @@
+outs:
+- md5: 66f09bcfadd9ac920eb1b4c915570e49
+  size: 17
+  path: file_66.txt
+meta:
+  hkube:
+    id: cli-ye0o
+    name: file_66.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187676
+    hash: 66f09bcfadd9ac920eb1b4c915570e49

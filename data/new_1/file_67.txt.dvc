@@ -1,0 +1,13 @@
+outs:
+- md5: 9e0731e6ff452cbfaccfb98328aa7313
+  size: 17
+  path: file_67.txt
+meta:
+  hkube:
+    id: cli-0tk1
+    name: file_67.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187676
+    hash: 9e0731e6ff452cbfaccfb98328aa7313

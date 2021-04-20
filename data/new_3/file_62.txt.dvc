@@ -1,0 +1,13 @@
+outs:
+- md5: 368490f5642da05d071ad27a34884300
+  size: 17
+  path: file_62.txt
+meta:
+  hkube:
+    id: cli-v46b
+    name: file_62.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187802
+    hash: 368490f5642da05d071ad27a34884300

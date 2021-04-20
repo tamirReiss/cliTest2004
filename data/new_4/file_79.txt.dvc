@@ -1,0 +1,13 @@
+outs:
+- md5: 510548dbb71c51ea20657496c1b918a7
+  size: 17
+  path: file_79.txt
+meta:
+  hkube:
+    id: cli-pnra
+    name: file_79.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187859
+    hash: 510548dbb71c51ea20657496c1b918a7

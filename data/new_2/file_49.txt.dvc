@@ -1,0 +1,15 @@
+outs:
+- md5: 9d514f990964c913b37f408daf051c85
+  size: 17
+  path: file_49.txt
+meta:
+  hkube:
+    id: cli-ihjt
+    name: file_49.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 30 to 50 
+      from 40 to 60 
+    uploadedAt: 1618914187724
+    hash: 9d514f990964c913b37f408daf051c85

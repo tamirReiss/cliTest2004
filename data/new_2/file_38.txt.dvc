@@ -1,0 +1,15 @@
+outs:
+- md5: 64adb3fdd8b39ece437e6da77cdbb99d
+  size: 17
+  path: file_38.txt
+meta:
+  hkube:
+    id: cli-6ky2
+    name: file_38.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 20 to 40 
+      from 30 to 50 
+    uploadedAt: 1618914187717
+    hash: 64adb3fdd8b39ece437e6da77cdbb99d

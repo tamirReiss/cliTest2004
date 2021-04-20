@@ -1,0 +1,15 @@
+outs:
+- md5: 14c2399ca6dbff622e4a89f5ac5a004c
+  size: 17
+  path: file_42.txt
+meta:
+  hkube:
+    id: cli-3gcz
+    name: file_42.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 30 to 50 
+      from 40 to 60 
+    uploadedAt: 1618914187838
+    hash: 14c2399ca6dbff622e4a89f5ac5a004c

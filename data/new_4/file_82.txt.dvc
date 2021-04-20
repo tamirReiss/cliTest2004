@@ -1,0 +1,13 @@
+outs:
+- md5: 1394e685d22d95076b1262885308c2be
+  size: 17
+  path: file_82.txt
+meta:
+  hkube:
+    id: cli-mlfc
+    name: file_82.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187860
+    hash: 1394e685d22d95076b1262885308c2be

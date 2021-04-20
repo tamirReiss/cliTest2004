@@ -1,0 +1,15 @@
+outs:
+- md5: 301a4eec54d04d63def6d0d8766224bb
+  size: 17
+  path: file_34.txt
+meta:
+  hkube:
+    id: cli-si4h
+    name: file_34.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 20 to 40 
+      from 30 to 50 
+    uploadedAt: 1618914187653
+    hash: 301a4eec54d04d63def6d0d8766224bb

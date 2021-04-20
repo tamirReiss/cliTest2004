@@ -1,0 +1,13 @@
+outs:
+- md5: e7e3da5d498ff9d9172240393fa9ab81
+  size: 17
+  path: file_62.txt
+meta:
+  hkube:
+    id: cli-ftq6
+    name: file_62.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187674
+    hash: e7e3da5d498ff9d9172240393fa9ab81

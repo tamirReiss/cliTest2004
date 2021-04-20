@@ -1,0 +1,15 @@
+outs:
+- md5: d0e020a9010eadd0a7294c55ffcbdbdf
+  size: 17
+  path: file_32.txt
+meta:
+  hkube:
+    id: cli-ggwa
+    name: file_32.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 20 to 40 
+      from 30 to 50 
+    uploadedAt: 1618914187651
+    hash: d0e020a9010eadd0a7294c55ffcbdbdf

@@ -1,0 +1,13 @@
+outs:
+- md5: a462b7d97571c8a9d76170c192dfd7ea
+  size: 17
+  path: file_90.txt
+meta:
+  hkube:
+    id: cli-dpoi
+    name: file_90.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187812
+    hash: a462b7d97571c8a9d76170c192dfd7ea

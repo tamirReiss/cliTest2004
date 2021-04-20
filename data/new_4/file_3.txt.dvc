@@ -1,0 +1,14 @@
+outs:
+- md5: 6dff23cc50193f11108ce3cb7db66758
+  size: 16
+  path: file_3.txt
+meta:
+  hkube:
+    id: cli-aipv
+    name: file_3.txt
+    size: 16
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1618914187832
+    hash: 6dff23cc50193f11108ce3cb7db66758

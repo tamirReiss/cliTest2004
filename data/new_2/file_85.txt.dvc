@@ -1,0 +1,13 @@
+outs:
+- md5: 982f2c50e24f5796b3c181be659b044f
+  size: 17
+  path: file_85.txt
+meta:
+  hkube:
+    id: cli-wrmu
+    name: file_85.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187757
+    hash: 982f2c50e24f5796b3c181be659b044f

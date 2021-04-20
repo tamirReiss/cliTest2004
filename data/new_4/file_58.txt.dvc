@@ -1,0 +1,14 @@
+outs:
+- md5: 4bc7b8f61f706ad6a8941700e9489b32
+  size: 17
+  path: file_58.txt
+meta:
+  hkube:
+    id: cli-eypd
+    name: file_58.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 40 to 60 
+    uploadedAt: 1618914187848
+    hash: 4bc7b8f61f706ad6a8941700e9489b32

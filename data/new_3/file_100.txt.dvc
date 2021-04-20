@@ -1,0 +1,13 @@
+outs:
+- md5: 70d51bc15c48350ebdd919e491139c61
+  size: 18
+  path: file_100.txt
+meta:
+  hkube:
+    id: cli-wswc
+    name: file_100.txt
+    size: 18
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187764
+    hash: 70d51bc15c48350ebdd919e491139c61

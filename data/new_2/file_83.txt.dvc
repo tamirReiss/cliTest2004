@@ -1,0 +1,13 @@
+outs:
+- md5: 55055989d9b894ac961d36a90993e278
+  size: 17
+  path: file_83.txt
+meta:
+  hkube:
+    id: cli-6lsp
+    name: file_83.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187755
+    hash: 55055989d9b894ac961d36a90993e278

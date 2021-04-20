@@ -1,0 +1,13 @@
+outs:
+- md5: 920553f3ba5dec995c228fbe322594ed
+  size: 17
+  path: file_65.txt
+meta:
+  hkube:
+    id: cli-i9xf
+    name: file_65.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187803
+    hash: 920553f3ba5dec995c228fbe322594ed

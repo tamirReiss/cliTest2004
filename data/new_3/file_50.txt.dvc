@@ -1,0 +1,15 @@
+outs:
+- md5: 4a7da9a23189d3703593cc436cf8c38b
+  size: 17
+  path: file_50.txt
+meta:
+  hkube:
+    id: cli-uucw
+    name: file_50.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 30 to 50 
+      from 40 to 60 
+    uploadedAt: 1618914187787
+    hash: 4a7da9a23189d3703593cc436cf8c38b

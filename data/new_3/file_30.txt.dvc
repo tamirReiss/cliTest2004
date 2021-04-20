@@ -1,0 +1,15 @@
+outs:
+- md5: 52bc36412d43b80d1de722f2cae107a3
+  size: 17
+  path: file_30.txt
+meta:
+  hkube:
+    id: cli-l9bf
+    name: file_30.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 20 to 40 
+      from 30 to 50 
+    uploadedAt: 1618914187775
+    hash: 52bc36412d43b80d1de722f2cae107a3

@@ -1,0 +1,14 @@
+outs:
+- md5: bc0b3344f0b0ea3a6dfb3adfc454bec4
+  size: 17
+  path: file_57.txt
+meta:
+  hkube:
+    id: cli-dx7p
+    name: file_57.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 40 to 60 
+    uploadedAt: 1618914187670
+    hash: bc0b3344f0b0ea3a6dfb3adfc454bec4

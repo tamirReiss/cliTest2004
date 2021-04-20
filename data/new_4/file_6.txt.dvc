@@ -1,0 +1,14 @@
+outs:
+- md5: 878827a41552c37395e2894646995ad7
+  size: 16
+  path: file_6.txt
+meta:
+  hkube:
+    id: cli-u3r5
+    name: file_6.txt
+    size: 16
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1618914187849
+    hash: 878827a41552c37395e2894646995ad7

@@ -1,0 +1,13 @@
+outs:
+- md5: 5dce91cab24768b111253698ea23d5c5
+  size: 17
+  path: file_75.txt
+meta:
+  hkube:
+    id: cli-prh6
+    name: file_75.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187857
+    hash: 5dce91cab24768b111253698ea23d5c5

@@ -1,0 +1,13 @@
+outs:
+- md5: cdbc27e2938888b4d0734409b3d266a0
+  size: 17
+  path: file_92.txt
+meta:
+  hkube:
+    id: cli-bfjk
+    name: file_92.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187760
+    hash: cdbc27e2938888b4d0734409b3d266a0

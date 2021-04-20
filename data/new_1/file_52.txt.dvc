@@ -1,0 +1,14 @@
+outs:
+- md5: c45221a44ed5d7114bbb61d125f28fc0
+  size: 17
+  path: file_52.txt
+meta:
+  hkube:
+    id: cli-1ng4
+    name: file_52.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 40 to 60 
+    uploadedAt: 1618914187666
+    hash: c45221a44ed5d7114bbb61d125f28fc0

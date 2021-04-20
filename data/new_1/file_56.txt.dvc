@@ -1,0 +1,14 @@
+outs:
+- md5: 29cb938534d116e658fd62fe3778d404
+  size: 17
+  path: file_56.txt
+meta:
+  hkube:
+    id: cli-kc52
+    name: file_56.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 40 to 60 
+    uploadedAt: 1618914187670
+    hash: 29cb938534d116e658fd62fe3778d404

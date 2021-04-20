@@ -1,0 +1,13 @@
+outs:
+- md5: a9fcc183cb8354e094b3090c8e0c1342
+  size: 17
+  path: file_80.txt
+meta:
+  hkube:
+    id: cli-k4iz
+    name: file_80.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187860
+    hash: a9fcc183cb8354e094b3090c8e0c1342

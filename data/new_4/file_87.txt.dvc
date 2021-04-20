@@ -1,0 +1,13 @@
+outs:
+- md5: e100df05f3f6d46efb191869bc7a49fb
+  size: 17
+  path: file_87.txt
+meta:
+  hkube:
+    id: cli-iu4a
+    name: file_87.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187862
+    hash: e100df05f3f6d46efb191869bc7a49fb

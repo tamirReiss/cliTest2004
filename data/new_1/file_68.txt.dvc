@@ -1,0 +1,13 @@
+outs:
+- md5: db5996b24561d07ec5c6fd74369acbe0
+  size: 17
+  path: file_68.txt
+meta:
+  hkube:
+    id: cli-5ebe
+    name: file_68.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187677
+    hash: db5996b24561d07ec5c6fd74369acbe0

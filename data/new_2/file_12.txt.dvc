@@ -1,0 +1,14 @@
+outs:
+- md5: 16e735b6341608b45909726fc64dbb91
+  size: 17
+  path: file_12.txt
+meta:
+  hkube:
+    id: cli-lug6
+    name: file_12.txt
+    size: 17
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1618914187698
+    hash: 16e735b6341608b45909726fc64dbb91

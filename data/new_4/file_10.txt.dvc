@@ -1,0 +1,14 @@
+outs:
+- md5: 57843ae74ee3b4c369cdfad20a2c4922
+  size: 17
+  path: file_10.txt
+meta:
+  hkube:
+    id: cli-uist
+    name: file_10.txt
+    size: 17
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1618914187818
+    hash: 57843ae74ee3b4c369cdfad20a2c4922

@@ -1,0 +1,15 @@
+outs:
+- md5: 8f31a0d5695d71a9609922d7e8fe8559
+  size: 17
+  path: file_30.txt
+meta:
+  hkube:
+    id: cli-sr0z
+    name: file_30.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 20 to 40 
+      from 30 to 50 
+    uploadedAt: 1618914187833
+    hash: 8f31a0d5695d71a9609922d7e8fe8559

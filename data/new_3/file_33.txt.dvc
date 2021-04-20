@@ -1,0 +1,15 @@
+outs:
+- md5: c3a450f694a71ed01c5fbe2d484794fa
+  size: 17
+  path: file_33.txt
+meta:
+  hkube:
+    id: cli-buhc
+    name: file_33.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 20 to 40 
+      from 30 to 50 
+    uploadedAt: 1618914187776
+    hash: c3a450f694a71ed01c5fbe2d484794fa

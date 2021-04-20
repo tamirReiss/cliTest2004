@@ -1,0 +1,15 @@
+outs:
+- md5: 3db2dcf3c91458c3b961b1698c9cd94b
+  size: 17
+  path: file_35.txt
+meta:
+  hkube:
+    id: cli-mpg6
+    name: file_35.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 20 to 40 
+      from 30 to 50 
+    uploadedAt: 1618914187654
+    hash: 3db2dcf3c91458c3b961b1698c9cd94b

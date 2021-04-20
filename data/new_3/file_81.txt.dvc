@@ -1,0 +1,13 @@
+outs:
+- md5: ad9e1da3282dff1f58dd481b26d652c3
+  size: 17
+  path: file_81.txt
+meta:
+  hkube:
+    id: cli-hhmn
+    name: file_81.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187809
+    hash: ad9e1da3282dff1f58dd481b26d652c3

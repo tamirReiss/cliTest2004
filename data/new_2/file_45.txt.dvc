@@ -1,0 +1,15 @@
+outs:
+- md5: 21889ac5ad3f7c258c28f2bf1cb5625e
+  size: 17
+  path: file_45.txt
+meta:
+  hkube:
+    id: cli-g2to
+    name: file_45.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 30 to 50 
+      from 40 to 60 
+    uploadedAt: 1618914187721
+    hash: 21889ac5ad3f7c258c28f2bf1cb5625e

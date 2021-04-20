@@ -1,0 +1,13 @@
+outs:
+- md5: eb9e31a8cc1dcf808caf1c1c9920e81d
+  size: 17
+  path: file_93.txt
+meta:
+  hkube:
+    id: cli-74r3
+    name: file_93.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187865
+    hash: eb9e31a8cc1dcf808caf1c1c9920e81d

@@ -1,0 +1,13 @@
+outs:
+- md5: 69aa8c85838a406c11344d59a29677ea
+  size: 17
+  path: file_63.txt
+meta:
+  hkube:
+    id: cli-9ziw
+    name: file_63.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187674
+    hash: 69aa8c85838a406c11344d59a29677ea

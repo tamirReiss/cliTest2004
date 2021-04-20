@@ -1,0 +1,14 @@
+outs:
+- md5: 02b00e2d3a3013d842cf104bfba7d38c
+  size: 17
+  path: file_10.txt
+meta:
+  hkube:
+    id: cli-8kux
+    name: file_10.txt
+    size: 17
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1618914187697
+    hash: 02b00e2d3a3013d842cf104bfba7d38c

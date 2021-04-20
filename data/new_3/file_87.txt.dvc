@@ -1,0 +1,13 @@
+outs:
+- md5: 0ed150258162dfe3a1d1b088fa31edab
+  size: 17
+  path: file_87.txt
+meta:
+  hkube:
+    id: cli-w0wn
+    name: file_87.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187811
+    hash: 0ed150258162dfe3a1d1b088fa31edab

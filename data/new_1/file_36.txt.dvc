@@ -1,0 +1,15 @@
+outs:
+- md5: 6b81527ac48693887b86a70c306d7881
+  size: 17
+  path: file_36.txt
+meta:
+  hkube:
+    id: cli-7wnq
+    name: file_36.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 20 to 40 
+      from 30 to 50 
+    uploadedAt: 1618914187655
+    hash: 6b81527ac48693887b86a70c306d7881

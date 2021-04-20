@@ -1,0 +1,14 @@
+outs:
+- md5: 5bff57b67779796a9b44d3bb5bdeb66d
+  size: 17
+  path: file_60.txt
+meta:
+  hkube:
+    id: cli-owms
+    name: file_60.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 40 to 60 
+    uploadedAt: 1618914187673
+    hash: 5bff57b67779796a9b44d3bb5bdeb66d

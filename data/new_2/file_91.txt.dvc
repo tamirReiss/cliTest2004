@@ -1,0 +1,13 @@
+outs:
+- md5: 7530687021f7fc3abc0baa8e36d1d8b3
+  size: 17
+  path: file_91.txt
+meta:
+  hkube:
+    id: cli-129s
+    name: file_91.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187760
+    hash: 7530687021f7fc3abc0baa8e36d1d8b3

@@ -1,0 +1,14 @@
+outs:
+- md5: 5829a5571728208e8dce47eeca74b091
+  size: 17
+  path: file_26.txt
+meta:
+  hkube:
+    id: cli-t1iw
+    name: file_26.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 20 to 40 
+    uploadedAt: 1618914187644
+    hash: 5829a5571728208e8dce47eeca74b091

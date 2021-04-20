@@ -1,0 +1,13 @@
+outs:
+- md5: 211a6c08e7119926e83310cdb5fef143
+  size: 17
+  path: file_74.txt
+meta:
+  hkube:
+    id: cli-748s
+    name: file_74.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187681
+    hash: 211a6c08e7119926e83310cdb5fef143

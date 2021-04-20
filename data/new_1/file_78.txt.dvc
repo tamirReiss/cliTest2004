@@ -1,0 +1,13 @@
+outs:
+- md5: 77737e9d7a5d78d3adc0d76a5bbe7a51
+  size: 17
+  path: file_78.txt
+meta:
+  hkube:
+    id: cli-7y6t
+    name: file_78.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187684
+    hash: 77737e9d7a5d78d3adc0d76a5bbe7a51

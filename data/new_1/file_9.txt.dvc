@@ -1,0 +1,14 @@
+outs:
+- md5: 2b19d416614e1262fab478d7366a8d0a
+  size: 16
+  path: file_9.txt
+meta:
+  hkube:
+    id: cli-e358
+    name: file_9.txt
+    size: 16
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1618914187692
+    hash: 2b19d416614e1262fab478d7366a8d0a

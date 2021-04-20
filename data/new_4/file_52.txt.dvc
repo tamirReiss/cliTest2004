@@ -1,0 +1,14 @@
+outs:
+- md5: 8cb753cd846fce1975f30462fdfba03d
+  size: 17
+  path: file_52.txt
+meta:
+  hkube:
+    id: cli-hv88
+    name: file_52.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 40 to 60 
+    uploadedAt: 1618914187844
+    hash: 8cb753cd846fce1975f30462fdfba03d

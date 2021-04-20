@@ -1,0 +1,14 @@
+outs:
+- md5: 550d37d61c44a4a55c936a314b0c634a
+  size: 17
+  path: file_25.txt
+meta:
+  hkube:
+    id: cli-71ss
+    name: file_25.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 20 to 40 
+    uploadedAt: 1618914187708
+    hash: 550d37d61c44a4a55c936a314b0c634a

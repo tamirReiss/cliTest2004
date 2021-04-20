@@ -1,0 +1,15 @@
+outs:
+- md5: 6b478de9e1d99d264e7fb39fedf38540
+  size: 17
+  path: file_37.txt
+meta:
+  hkube:
+    id: cli-vk9w
+    name: file_37.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 20 to 40 
+      from 30 to 50 
+    uploadedAt: 1618914187717
+    hash: 6b478de9e1d99d264e7fb39fedf38540

@@ -1,0 +1,13 @@
+outs:
+- md5: a90ab6302204fd5674aadd78965f595d
+  size: 17
+  path: file_84.txt
+meta:
+  hkube:
+    id: cli-2e4v
+    name: file_84.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187810
+    hash: a90ab6302204fd5674aadd78965f595d

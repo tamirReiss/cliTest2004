@@ -1,0 +1,14 @@
+outs:
+- md5: 3c388c6bc386e03857ed3f9e34ab8d94
+  size: 17
+  path: file_15.txt
+meta:
+  hkube:
+    id: cli-u6lp
+    name: file_15.txt
+    size: 17
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1618914187700
+    hash: 3c388c6bc386e03857ed3f9e34ab8d94

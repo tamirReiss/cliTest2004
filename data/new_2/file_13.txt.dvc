@@ -1,0 +1,14 @@
+outs:
+- md5: d62567a5af1a7193e7251cfdd4e93f7d
+  size: 17
+  path: file_13.txt
+meta:
+  hkube:
+    id: cli-do7e
+    name: file_13.txt
+    size: 17
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1618914187699
+    hash: d62567a5af1a7193e7251cfdd4e93f7d

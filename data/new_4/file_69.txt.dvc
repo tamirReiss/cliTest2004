@@ -1,0 +1,13 @@
+outs:
+- md5: 0fb0c549e914bea17904e4da449628c7
+  size: 17
+  path: file_69.txt
+meta:
+  hkube:
+    id: cli-32at
+    name: file_69.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187854
+    hash: 0fb0c549e914bea17904e4da449628c7

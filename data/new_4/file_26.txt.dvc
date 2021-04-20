@@ -1,0 +1,14 @@
+outs:
+- md5: 7c49240637d093d811fdfea3d43cea97
+  size: 17
+  path: file_26.txt
+meta:
+  hkube:
+    id: cli-6tpa
+    name: file_26.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 20 to 40 
+    uploadedAt: 1618914187830
+    hash: 7c49240637d093d811fdfea3d43cea97

@@ -1,0 +1,14 @@
+outs:
+- md5: 73bfeb864cf46d8f7a314310ccc7d7a0
+  size: 17
+  path: file_56.txt
+meta:
+  hkube:
+    id: cli-e8e9
+    name: file_56.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 40 to 60 
+    uploadedAt: 1618914187728
+    hash: 73bfeb864cf46d8f7a314310ccc7d7a0

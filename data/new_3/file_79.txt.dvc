@@ -1,0 +1,13 @@
+outs:
+- md5: 52545c3a2c389f3b985b32805f33197f
+  size: 17
+  path: file_79.txt
+meta:
+  hkube:
+    id: cli-0fvn
+    name: file_79.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187808
+    hash: 52545c3a2c389f3b985b32805f33197f

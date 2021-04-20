@@ -1,0 +1,13 @@
+outs:
+- md5: 9df68a35a56c25618d5bca9291d3f6b3
+  size: 17
+  path: file_69.txt
+meta:
+  hkube:
+    id: cli-dyjk
+    name: file_69.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187738
+    hash: 9df68a35a56c25618d5bca9291d3f6b3

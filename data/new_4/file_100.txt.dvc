@@ -1,0 +1,13 @@
+outs:
+- md5: f7828a67512f4e43dc653a09fd1d2531
+  size: 18
+  path: file_100.txt
+meta:
+  hkube:
+    id: cli-mwhj
+    name: file_100.txt
+    size: 18
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187819
+    hash: f7828a67512f4e43dc653a09fd1d2531

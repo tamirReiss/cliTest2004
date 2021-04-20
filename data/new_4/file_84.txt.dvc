@@ -1,0 +1,13 @@
+outs:
+- md5: fba5ab3ef97a12101fe5af23c05017c7
+  size: 17
+  path: file_84.txt
+meta:
+  hkube:
+    id: cli-utgm
+    name: file_84.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187861
+    hash: fba5ab3ef97a12101fe5af23c05017c7

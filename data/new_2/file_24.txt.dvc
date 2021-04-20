@@ -1,0 +1,14 @@
+outs:
+- md5: c6013a6b3378f00abe21e2d94a426a4f
+  size: 17
+  path: file_24.txt
+meta:
+  hkube:
+    id: cli-z79v
+    name: file_24.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 20 to 40 
+    uploadedAt: 1618914187707
+    hash: c6013a6b3378f00abe21e2d94a426a4f

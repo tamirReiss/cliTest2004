@@ -1,0 +1,14 @@
+outs:
+- md5: 66f976d581c2db9405eb24ba8d7b3d96
+  size: 17
+  path: file_19.txt
+meta:
+  hkube:
+    id: cli-o9hi
+    name: file_19.txt
+    size: 17
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1618914187638
+    hash: 66f976d581c2db9405eb24ba8d7b3d96

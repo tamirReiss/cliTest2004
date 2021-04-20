@@ -1,0 +1,13 @@
+outs:
+- md5: 8728a53b9c2c74ff930c227b77751892
+  size: 17
+  path: file_63.txt
+meta:
+  hkube:
+    id: cli-izle
+    name: file_63.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187735
+    hash: 8728a53b9c2c74ff930c227b77751892

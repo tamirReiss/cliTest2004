@@ -1,0 +1,14 @@
+outs:
+- md5: 4fd62287576b6eb849ca54a9468f2a11
+  size: 17
+  path: file_28.txt
+meta:
+  hkube:
+    id: cli-5zl7
+    name: file_28.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 20 to 40 
+    uploadedAt: 1618914187710
+    hash: 4fd62287576b6eb849ca54a9468f2a11

@@ -1,0 +1,13 @@
+outs:
+- md5: e82a3a42067bf13321d26bd40cf0a8bf
+  size: 17
+  path: file_89.txt
+meta:
+  hkube:
+    id: cli-k1rm
+    name: file_89.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187691
+    hash: e82a3a42067bf13321d26bd40cf0a8bf

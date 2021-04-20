@@ -1,0 +1,14 @@
+outs:
+- md5: 1fd29fd6aef8d53c6019591da2af5b2e
+  size: 17
+  path: file_14.txt
+meta:
+  hkube:
+    id: cli-wg0j
+    name: file_14.txt
+    size: 17
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1618914187766
+    hash: 1fd29fd6aef8d53c6019591da2af5b2e

@@ -1,0 +1,13 @@
+outs:
+- md5: 6e5f9c68f995b8d3b13776cc0a87e97e
+  size: 17
+  path: file_82.txt
+meta:
+  hkube:
+    id: cli-iezb
+    name: file_82.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187755
+    hash: 6e5f9c68f995b8d3b13776cc0a87e97e

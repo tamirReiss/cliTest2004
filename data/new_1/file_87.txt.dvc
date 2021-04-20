@@ -1,0 +1,13 @@
+outs:
+- md5: ff49cda9f431bd1f403fd300be588ccf
+  size: 17
+  path: file_87.txt
+meta:
+  hkube:
+    id: cli-tw5d
+    name: file_87.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618914187690
+    hash: ff49cda9f431bd1f403fd300be588ccf
